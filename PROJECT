@@ -1,0 +1,7 @@
+domain: ydzs.io
+repo: github.com/yyt/builder-demo
+resources:
+- group: webapp
+  kind: Book
+  version: v1
+version: "2"
